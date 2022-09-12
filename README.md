@@ -8,4 +8,5 @@ To import it on your google colab you need to first download kaggle.json.
   3. Click on create New API Token.
 
 It will download kaggle.json file.
+
 Upload it in colab when asked to you.
